@@ -21,11 +21,4 @@
 ![](../../assets/Grid-Base-Plate/32-grid-Base-Plate+16mm_2D_Export_A3__.svg)
 
 
-## Base Pin
-
-> Currently not used in the main manufacturing
-
-A simple 3D printable pin for a defined distance between base plates. Requires an empty bore hole and a M3.5x12mm (can be longer) screw with countersunk head.
-
-At least 3 per Layer needed, defined by the highest item on the layer. [FreeCAD](CAD/Pin/Base-Pin.FCStd) Source Files can be edited to a hight needed. 
 
