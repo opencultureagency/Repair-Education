@@ -20,5 +20,9 @@
 
 ![](../../assets/Grid-Base-Plate/32-grid-Base-Plate+16mm_2D_Export_A3__.svg)
 
+## Gluing Tool
 
+> This 3D printable tool helps during production to glue layers and place all corners correctly!
+
+![](../../assets/Gluing-Tool/Gluing-Tool.svg)
 
