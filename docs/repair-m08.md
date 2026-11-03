@@ -8,10 +8,10 @@
 ![repair-m08](../assets/modules/repair-m08_Electronics-Basics-numbers.jpg)
 
 
+1. Dust Blower
+1. Anti-Static Brush
 1. Electronics Toolkit
-2. Anti-Static Brush
-3. Dust Blower
-4. Thermometer
+1. Thermometer
 
 ---
 

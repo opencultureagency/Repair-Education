@@ -8,14 +8,14 @@
 ![repair-m11](../assets/modules/repair-m11_Gluing-numbers.jpg)
 
 
+1. Wood Glue
+1. Super Glue
 1. Duct Tape
-2. Super Glue
-3. 2-Component Epoxy Glue
-4. Epoxy Putty Glue Set
-5. Plastic Glue
-6. Plastic Repair Glue
-7. Shoe & Leather Glue
-8. Wood Glue
+1. Plastic Glue
+1. Plastic Repair Glue
+1. Epoxy Putty Glue Set
+1. Shoe & Leather Glue
+1. 2-Component Epoxy Glue
 
 ---
 

@@ -8,11 +8,14 @@
 ![repair-m07](../assets/modules/repair-m07_Wrenches-numbers.jpg)
 
 
+1. Thread Gauge
+1. Water Pump Pliers
+1. Open-End Wrench 17/19 mm
+1. Open-End Wrench 14/15 mm
+1. Open-End Wrench 10/13 mm
+1. Open-End Wrench 8/9 mm
 1. Bone Wrench
-2. Water Pump Pliers
-3. Steel Ruler
-4. Thread Gauge
-5. Open-End Wrenches (4 sizes: 8/9, 10/13, 14/15, 17/19 mm)
+1. Steel Ruler
 
 ---
 

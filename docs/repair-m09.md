@@ -9,11 +9,10 @@
 
 
 1. Digital Multimeter
-2. Ammeter/Voltmeter
-3. Anti-Static Wrist Strap
-4. Precision Bit Set
-5. 4mm Precision Bits (Y00 & Torx Security TR9)
-6. Headlamp
+1. Headlamp
+1. Anti-Static Wrist Strap
+1. Precision Bit Set (incl 4mm Precision Bits (Y00 & Torx Security TR9))
+1. Ammeter/Voltmeter
 
 ---
 
