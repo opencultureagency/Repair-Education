@@ -1,6 +1,6 @@
 # Reparatur-Kit
 
-![](assets/Exploded-Floating-top-white.png)
+![](assets/Readme-Title-Image_2.png)
 
 Das **Universelle Reparatur-Kit** ist ein kompaktes, modulares und robustes Werkzeug-Set, das Menschen in Reparaturinitiativen befähigen soll, kleine Geräte, elektronische & Haushaltsgeräte sowie kleinere Maschinen zu reparieren. Sein **Open-Source**-Design und die modulare Organisation machen es zu einer idealen Lösung für eine Vielzahl von Anwendungsfällen, von gemeinschaftlicher Zusammenarbeit bis hin zu persönlichen Projekten.
 
@@ -12,6 +12,8 @@ Website: <https://askotec.openculture.agency/reparaturkit/>
 * **Klare Organisation**: Jedes Werkzeug hat seinen festen Platz, sodass auf den ersten Blick ersichtlich ist, welche Werkzeuge fehlen.
 * **Robust und mobil**: Durch den stabilen Koffer – gebaut für die Anforderungen mobiler Nutzung – ist es **stoßfest, staubdicht und wasserdicht**.
 * **Open Source**: Die vollständige Dokumentation für Aufbau und Inhalt des Kits ist hier verfügbar. Du kannst das Design [bauen](/prod/), [modifizieren](/src/) und [verbessern](https://github.com/opencultureagency/Repair-Kit/issues), um es an deine Bedürfnisse anzupassen, neue Module für verschiedene Anwendungsfälle zu erstellen und [Fallstudien](#fallstudien) zu entwickeln.
+
+![](assets/Basic-Tools_Angled-View.jpg)
 
 ![](assets/Repair-Kit-modules-focus.JPG)
 
