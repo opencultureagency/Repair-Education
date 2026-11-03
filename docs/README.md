@@ -1,14 +1,18 @@
 # Universal Repair Kit
+**Educational Edition**
 
 (English version)
 
-![](../assets/Exploded-Floating-side-white-square.png)
+![](../assets/Modules-with-Background-all.png)
 
 ## Modules included
-- Module 1: Essentials
-- Module 2: Soldering
-- Module 3: Mobile Devices
-- Module 4: Basic Tools
+- Basic Tools ([repair-m04a](repair-m04a.md) or [variant -m04b](repair-m04b.md)
+- Bike-Basics (repair-m06)
+- Wrenches (repair-m07)
+- Electronics Basics (repair-m08)
+- Electronics Troubleshooting (repair-m09)
+- Textiles (repair-m10)
+- Gluing (repair-m11)
 - Extras: packing & additional material info
 
 ---
