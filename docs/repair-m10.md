@@ -8,22 +8,16 @@
 ![repair-m10](../assets/modules/repair-m10_Textiles-numbers.jpg)
 
 
+1. Fabric Glue
 1. Embroidery Hoop
-2. Darning Mushroom
-3. Darning Mushroom (3D-printed)
-4. Seam Ripper
-5. Thimble
-6. Assorted Needle Set
-7. Self-Threading Darning Needle
-8. Magnetic Needle Case
-9. Thread Cutter
-10. Safety Pins
-11. Small Magnets
-12. Jeans Repair Kit
-13. Fabric Glue
+1. Darning Mushroom
+1. Darning Mushroom (3D-printed)
+1. Magnetic/Metal Needle Case (incl. added 1: 3x Sewing Needles 2: 2x Self-Threading Darning Needles 3: 2x Darning Needles 4: Small Magnets)
+1. Jeans Repair Kit (incl. additions 5: Thimble 6: Thread Cutter Scissors 7: Seam Ripper 8: Safety Pins on a magnet)
+
 
 ---
 
 **Educational Application:**
 
-This module covers basic mending techniques: darning holes, repairing seams, and patching textiles such as jeans — practical, everyday repair skills that apply well beyond the classroom.
+This module covers basic mending techniques: darning holes, repairing seams, and patching textiles such as jeans — practical, everyday repair skills for reparing clothes and beyond.
