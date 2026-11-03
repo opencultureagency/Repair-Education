@@ -13,12 +13,12 @@
 3. Tape Measure
 4. Adjustable wrench
 5. Pointed pliers
-6. Screwdriver power tester (optional replacement: iFixit 4mm Bit Holder - see variant [m04b](repair-m04b.md))
+6. Screwdriver power tester (replacement: iFixit 4mm Bit Holder - see variant [m04b](repair-m04b.md))
 7. Telescopic Magnet
 
 ---
 
 **Educational Application:**
 
-This module has basic repair cases in mind. Casings to be opened, twisted nobs/contacts/wires. Opening nuts and bolts and measuring relevant diameters and distances/pockets.
+This module has basic repair scenarios in mind. Casings to be opened, twisted nobs/contacts/wires. Opening nuts and bolts and measuring relevant diameters and distances/pockets.
 
