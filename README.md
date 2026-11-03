@@ -11,13 +11,13 @@ Website: <https://askotec.openculture.agency/repairkit>
 ## Key Features
 
 * **Educational Focus**: Designed to cover a wide range of learning scenarios, comes with an accompanying didactic concept.
-* **Modular Design**: The kit is built in a modular fashion, allowing for customisation to fit various repair scenarios. The current version includes **basic equipment modules, for most relevant [application scenarios](#application-scenarios)**. You can easily add new modules for specific needs.
+* **Modular Design**: The kit is built in a modular fashion, allowing for customisation to fit various repair scenarios. You can easily add new modules for specific needs.
 * **Clear Organisation**: Every tool has its place, making it easy to see which tools are missing at a first look.
-* **Open Source**: The complete documentation for the kit's construction and contents is available here. You can [build](/prod/), [modify](/src/), and [improve](https://github.com/opencultureagency/Repair-Kit/issues) upon the design to suit your own needs and create new modules for different use cases and [case studies](#case-studies).
+* **Open Source**: The complete documentation for the kit's construction and contents is available here. You can [build](/prod/), [modify](/src/), and [improve](https://github.com/opencultureagency/Repair-Kit/issues) upon the design to suit your own needs and create new modules for different use cases.
 
-![](assets/Basic-Tools_Angled-View.jpg)
+![Basic Tools](assets/Basic-Tools-Set-with-background.png)
 
-[[[[ hier ein Bild der Sondersets rein — oder beide Bilder ersetzen durch eines, in dem Basic tools & Sondersets sind ]]]]
+![Special Modules](assets/Special-Modules-with-Background.png)
 
 ## Application-Specific Compilations
 
