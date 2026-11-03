@@ -1,10 +1,10 @@
-# Repair Kit
+# Educational Repair Kit
 
-[[**README auf Deutsch**](/README_DE.md)]
+[[**README auf Deutsch**](/README.de.md)]
 
-![](assets/Readme-Title-Image_2.png)
+![Basic Repair Tools in a class kit box](assets/Readme-Title-Image_2.png)
 
-This repository documents the **Repair Education** toolkits developed for teaching about repair (((in German schools on behalf of BUND))): a general basic-tools class set (**Klassensatz**) plus special topic sets (**Sondersets**) covering bike repair, electronics, textiles, and gluing. Alongside the physical kit designs, this repository also hosts the accompanying didactic concept for teaching repair skills — the pedagogical materials are maintained here as well.
+This repository documents the **Repair Education** toolkits developed for teaching about repair: a general basic-tools class set (**Klassensatz**) plus special topic sets (**Sondersets**) covering bike repair, electronics, textiles, and gluing. Alongside the physical kit designs, this repository also hosts the accompanying didactic concept for teaching repair skills — the pedagogical materials are maintained here as well.
 
 Website: <https://askotec.openculture.agency/repairkit>
 
@@ -13,7 +13,7 @@ Website: <https://askotec.openculture.agency/repairkit>
 * **Educational Focus**: Designed to cover a wide range of learning scenarios, comes with an accompanying didactic concept.
 * **Modular Design**: The kit is built in a modular fashion, allowing for customisation to fit various repair scenarios. You can easily add new modules for specific needs.
 * **Clear Organisation**: Every tool has its place, making it easy to see which tools are missing at a first look.
-* **Open Source**: The complete documentation for the kit's construction and contents is available here. You can [build](/prod/), [modify](/src/), and [improve](https://github.com/opencultureagency/Repair-Kit/issues) upon the design to suit your own needs and create new modules for different use cases.
+* **Open Source**: The complete documentation for the kit's construction and contents is available here. You can [build](/prod/), [modify](/src/), and [improve](https://github.com/opencultureagency/Repair-Education/issues) upon the design to suit your own needs and create new modules for different use cases.
 
 ![Basic Tools](assets/Basic-Tools-Set-with-background.png)
 
@@ -23,30 +23,27 @@ Website: <https://askotec.openculture.agency/repairkit>
 
 Different application scenarios call for different kits. Any combination of the modules and didactic materials documented in this repository can be compiled into a case tailored to the scenario at hand. Pick and combine whatever fits to assemble your own compilation. 
 
-[[[[ hier dann trotzdem  Klassensatz und Sondersets als jeweils eine Zusammenstellung aufführen? Vlt nur Klassensatz, weil Sondersets so vielfältig sind ]]]]
+In its original form the Basic Tools module ([repair-m04a](/docs/repair-m04a.md) and later transformed into [-m04b](/docs/repair-m04b.md))
 
 See the individual module documentation for the specific applications each one covers.
 
 ## Modules included
 
-[[[ TODO: Links zu jeweiligen Readmes. Vlt kleines Bild wie unten?  ]]]
-
-- repair-m04b: **Basic Tools**<br>![](assets/repair-m04b-icon.png)<br><br>
-- repair-m06: Bike Basics
-- repair-m07: Wrenches
-- repair-m08: Electronics Basics
-- repair-m09: Electronics Troubleshooting
-- repair-m10: Textiles
-- repair-m11: Gluing
+- [repair-m04b](docs/repair-m04b.md): **Basic Tools** (with iFixit 4mm bit holder) - variant: [repair-m04a](docs/repair-m04a.md)
+- [repair-m06](docs/repair-m06): Bike Basics
+- [repair-m07](docs/repair-m07): Wrenches
+- [repair-m08](docs/repair-m08): Electronics Basics
+- [repair-m09](docs/repair-m09): Electronics Troubleshooting
+- [repair-m10](docs/repair-m10): Textiles
+- [repair-m11](docs/repair-m11): Gluing
 
 
-[[[ anderes Bild ]]]
-![](assets/Repair-Kit-modules-extra-ready-demo.JPG)
+![](assets/Pegboard-Module-Materials.jpg)
 
 
 ## Production
 
-See [Production](docs/production.md) for the detailed production process, and [Design Decisions & Notes](docs/design-decisions.md) for the background design rationale and open questions.
+See [Production](PRODUCTION.md) for the detailed production process, and [Design Decisions & Notes](DESIGN-DECISIONS.md) for the background design rationale and open questions.
 
 ## Dokumentation rendering
 
@@ -74,8 +71,9 @@ On all documentation we apply the [CC-BY-SA 4.0](/LICENSE_CC_BY-SA.md). Apart fr
 
 ### Repository Structure
 
-* `assets/`: Add additional files and images here. case studies, production, 
-* `docs/`: Documentation for the modules, production, and design decisions.
+* `/`: root is meant for technical README, BOM, PRODUCTION, DESIGN-DECISIONS and LICENSE guiding info of the project.
+* `assets/`: Add additional files and images here.
+* `docs/`: User centric documentation for the modules to be rendered
 * `src/`: Add new source files here.
 * `prod/`: For pure production files (exports, without embedded images, etc.).
   
