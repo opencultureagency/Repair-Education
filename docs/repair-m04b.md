@@ -19,5 +19,5 @@
 
 **Educational Application:**
 
-This module has basic repair cases in mind. Casings to be opened, twisted nobs/contacts/wires. Opening nuts and bolts and measuring relevant diameters and distances/pockets.
+This module has basic repair scenarios in mind. Casings to be opened, twisted nobs/contacts/wires. Opening nuts and bolts and measuring relevant diameters and distances/pockets. It is advisable to bring this module into play with specific repair tasks for household appliances.
 
