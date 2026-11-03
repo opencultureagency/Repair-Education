@@ -6,7 +6,7 @@
 ![](../assets/Modules-with-Background-all.png)
 
 ## Modules included
-- Basic Tools ([repair-m04a](repair-m04a.md) or [variant -m04b](repair-m04b.md)
+- Basic Tools ([repair-m04a](repair-m04a.md) or [variant -m04b](repair-m04b.md))
 - Bike-Basics (repair-m06)
 - Wrenches (repair-m07)
 - Electronics Basics (repair-m08)
