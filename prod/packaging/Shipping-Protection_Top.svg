@@ -1,0 +1,730 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg baseProfile="tiny" height="297mm" version="1.2" viewBox="0 0 4200 2970" width="420mm" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:freecad="https://www.freecad.org/wiki/index.php?title=Svg_Namespace" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>FreeCAD SVG Export</title>
+ <desc>Drawing page: Page exported from FreeCAD document: Versandsicherung_Oberteil</desc>
+ <defs/>
+ <g id="Page" inkscape:groupmode="layer" inkscape:label="TechDraw">
+  <g id="A3_Landscape_ISO5457_minimal.svg" style="stroke: none;" transform="scale(10.000000, 10.000000)">
+   <title id="title">Drawing sheet ISO 5457 - A3T - Minimal</title>
+   <metadata id="metadata">
+    <rdf:RDF>
+     <cc:Work rdf:about="">
+      <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+      <dc:title>Drawing sheet ISO 5457 - A3T - Minimal</dc:title>
+      <dc:creator>
+       <cc:Agent>
+        <dc:title>Benjamin May</dc:title>
+       </cc:Agent>
+      </dc:creator>
+     </cc:Work>
+     <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+      <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+     </cc:License>
+    </rdf:RDF>
+   </metadata>
+   <rect height="277" id="drawing_space_frame" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round" width="390" x="20" y="10"/>
+   <g id="centring_marks" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round">
+    <path d="m 210,5 v 10" id="top_centering"/>
+    <path d="m 415,148.5 h -10" id="right_centering"/>
+    <path d="m 210,292 v -10" id="bottom_centering"/>
+    <path d="m 15,148.5 h 10" id="left_centering"/>
+   </g>
+   <g id="grid_reference_system">
+    <g id="grid_reference_borders" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round">
+     <rect height="287" id="grid_reference_border" width="400" x="15" y="5"/>
+     <path d="m 60,5 v 5" id="upper_border_1"/>
+     <path d="m 110,5 v 5" id="upper_border_2"/>
+     <path d="m 160,5 v 5" id="upper_border_3"/>
+     <path d="m 260,5 v 5" id="upper_border_5"/>
+     <path d="m 310,5 v 5" id="upper_border_6"/>
+     <path d="m 360,5 v 5" id="upper_border_7"/>
+     <path d="m 415,48.5 h -5" id="right_border_1"/>
+     <path d="m 415,98.5 h -5" id="right_border_2"/>
+     <path d="m 415,198.5 h -5" id="right_border_4"/>
+     <path d="m 415,248.5 h -5" id="right_border_5"/>
+     <path d="m 60,292 v -5" id="lower_border_1"/>
+     <path d="m 110,292 v -5" id="lower_border_2"/>
+     <path d="m 160,292 v -5" id="lower_border_3"/>
+     <path d="m 260,292 v -5" id="lower_border_5"/>
+     <path d="m 310,292 v -5" id="lower_border_6"/>
+     <path d="m 360,292 v -5" id="lower_border_7"/>
+     <path d="m 15,48.5 h 5" id="left_border_1"/>
+     <path d="m 15,98.5 h 5" id="left_border_2"/>
+     <path d="m 15,198.5 h 5" id="left_border_4"/>
+     <path d="m 15,248.5 h 5" id="left_border_5"/>
+    </g>
+    <g id="grid_reference_markers" style="font-size:3.5px;font-family:osifont;text-align:center;text-anchor:middle;fill:#000000;stroke:none">
+     <text id="upper_marker_1" x="35" y="8.8">1</text>
+     <text id="upper_marker_2" x="85" y="8.8">2</text>
+     <text id="upper_marker_3" x="135" y="8.8">3</text>
+     <text id="upper_marker_4" x="185" y="8.8">4</text>
+     <text id="upper_marker_5" x="235" y="8.8">5</text>
+     <text id="upper_marker_6" x="285" y="8.8">6</text>
+     <text id="upper_marker_7" x="335" y="8.8">7</text>
+     <text id="upper_marker_8" x="385" y="8.8">8</text>
+     <text id="right_marker_1" x="412.5" y="24.8">A</text>
+     <text id="right_marker_2" x="412.5" y="74.8">B</text>
+     <text id="right_marker_3" x="412.5" y="124.8">C</text>
+     <text id="right_marker_4" x="412.5" y="174.8">D</text>
+     <text id="right_marker_5" x="412.5" y="224.8">E</text>
+     <text id="right_marker_6" x="412.5" y="274.8">F</text>
+     <text id="lower_marker_1" x="35" y="290.8">1</text>
+     <text id="lower_marker_2" x="85" y="290.8">2</text>
+     <text id="lower_marker_3" x="135" y="290.8">3</text>
+     <text id="lower_marker_4" x="185" y="290.8">4</text>
+     <text id="lower_marker_5" x="235" y="290.8">5</text>
+     <text id="lower_marker_6" x="285" y="290.8">6</text>
+     <text id="lower_marker_7" x="335" y="290.8">7</text>
+     <text id="lower_marker_8" x="385" y="290.8">A3</text>
+     <text id="left_marker_1" x="17.5" y="24.8">A</text>
+     <text id="left_marker_2" x="17.5" y="74.8">B</text>
+     <text id="left_marker_3" x="17.5" y="124.8">C</text>
+     <text id="left_marker_4" x="17.5" y="174.8">D</text>
+     <text id="left_marker_5" x="17.5" y="224.8">E</text>
+     <text id="left_marker_6" x="17.5" y="274.8">F</text>
+    </g>
+   </g>
+   <g id="trimming_marks" style="fill:#000000;stroke:none">>
+    <path d="m 0,0 h 10 v 5 h -5 v 5 h -5 z" id="top_left_trimming"/>
+    <path d="m 420,0 h -10 v 5 h 5 v 5 h 5 z" id="top_right_trimming"/>
+    <path d="m 420,297 h -10 v -5 h 5 v -5 h 5 z" id="bottom_right_trimming"/>
+    <path d="m 0,297 h 10 v -5 h -5 v -5 h -5 z" id="bottom_left_trimming"/>
+   </g>
+   <!-- Title block -->
+   <g id="title_block_borders" style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round">
+    <rect height="36" id="title_block_frame" style="stroke-width:0.7" width="180" x="230" y="251"/>
+    <rect height="24" id="legal_owner_border" width="40" x="370" y="251"/>
+    <rect height="12" id="identification_number_border" width="80" x="230" y="275"/>
+    <rect height="12" id="revision_index_border" width="20" x="370" y="275"/>
+    <rect height="12" id="date_of_issue_border" width="40" x="330" y="275"/>
+    <rect height="12" id="sheet_number_border" width="20" x="390" y="275"/>
+    <rect height="12" id="language_code_border" width="20" x="310" y="275"/>
+    <rect height="12" id="title_border" width="80" x="230" y="251"/>
+    <rect height="12" id="approval_person_border" width="60" x="310" y="263"/>
+    <rect height="12" id="creator_border" width="60" x="310" y="251"/>
+    <rect height="12" id="document_type_border" width="80" x="230" y="263"/>
+   </g>
+   <g id="title_block_labels" style="font-size:3.5px;font-family:osifont;text-anchor:start;fill:#000000;stroke:none">
+    <text id="legal_owner label" x="370.5" y="254.6">Owner:</text>
+    <text id="identification_number_label" x="230.5" y="278.6">Drawing number:</text>
+    <text id="revision_index_label" x="370.5" y="278.6">Revision:</text>
+    <text id="date_of_issue_label" x="330.5" y="278.6">Issue date:</text>
+    <text id="sheet_number_label" x="390.5" y="278.6">Sheet:</text>
+    <text id="language_code_label" x="310.5" y="278.6">Language:</text>
+    <text id="title_label" x="230.5" y="254.6">Title:</text>
+    <text id="approval_person_label" x="310.5" y="266.6">Approved by:</text>
+    <text id="creator_label" x="310.5" y="254.6">Created by:</text>
+    <text id="document_type_label" x="230.5" y="266.6">Document type:</text>
+    <text id="sheet_scale_label" x="350.5" y="242.6">Scale:</text>
+    <text id="general_tolerances_label" x="310.5" y="242.6">General tolerances:</text>
+    <text id="part_material_label" x="230.5" y="242.6">Part Material:</text>
+   </g>
+   <g id="title_block_data_fields" style="font-size:5px;font-family:osifont;text-anchor:start;fill:#000000;stroke:none">
+    <text freecad:autofill="organization" freecad:editable="legal_owner_1" id="legal_owner_1_data_field" style="font-size:3.5px;text-align:center;text-anchor:middle" x="390" y="260.1">
+     <tspan xml:space="preserve"/>
+    </text>
+    <text freecad:editable="legal_owner_2" id="legal_owner_2_data_field" style="font-size:3.5px;text-align:center;text-anchor:middle" x="390" y="264.1">
+     <tspan xml:space="preserve"/>
+    </text>
+    <text freecad:editable="legal_owner_3" id="legal_owner_3_data_field" style="font-size:3.5px;text-align:center;text-anchor:middle" x="390" y="268.1">
+     <tspan xml:space="preserve"/>
+    </text>
+    <text freecad:editable="legal_owner_4" id="legal_owner_4_data_field" style="font-size:3.5px;text-align:center;text-anchor:middle" x="390" y="272.1">
+     <tspan xml:space="preserve"/>
+    </text>
+    <text freecad:editable="drawing_number" id="identification_number_data_field" x="231" y="284.2">
+     <tspan xml:space="preserve"/>
+    </text>
+    <text freecad:editable="revision_index" id="revision_index_data_field" style="text-align:center;text-anchor:middle" x="380" y="284.2">
+     <tspan xml:space="preserve"/>
+    </text>
+    <text freecad:autofill="date" freecad:editable="date_of_issue" id="date_of_issue_data_field" x="331" y="284.2">
+     <tspan xml:space="preserve">01.09.26</tspan>
+    </text>
+    <text freecad:autofill="sheet" freecad:editable="sheet_number" id="sheet_number_data_field" style="text-align:center;text-anchor:middle" x="400" y="284.2">
+     <tspan xml:space="preserve">1 / 1</tspan>
+    </text>
+    <text freecad:editable="language_code" id="language_code_data_field" style="text-align:center;text-anchor:middle" x="320" y="284.2">
+     <tspan xml:space="preserve">EN</tspan>
+    </text>
+    <text freecad:autofill="title" freecad:editable="title" id="title_data_field" x="231" y="260.2">
+     <tspan xml:space="preserve">Versandsicherung Oberteil</tspan>
+    </text>
+    <text freecad:editable="approval_person" id="approval_person_data_field" x="311" y="272.2">
+     <tspan xml:space="preserve"/>
+    </text>
+    <text freecad:autofill="author" freecad:editable="creator" id="creator_data_field" x="311" y="260.2">
+     <tspan xml:space="preserve">M. Schott</tspan>
+    </text>
+    <text freecad:editable="document_type" id="document_type_data_field" x="231" y="272.2">
+     <tspan xml:space="preserve">Component Drawing</tspan>
+    </text>
+    <text freecad:autofill="scale" freecad:editable="scale" id="sheet_scale_data_field" style="text-align:center;text-anchor:middle" x="360" y="248.2">
+     <tspan xml:space="preserve">1 : 2</tspan>
+    </text>
+    <text freecad:editable="general_tolerances" id="general_tolerances_data_field" x="311" y="248.2">
+     <tspan xml:space="preserve"/>
+    </text>
+    <text freecad:editable="part_material" id="part_material_data_field" x="231" y="248.2">
+     <tspan xml:space="preserve">ShadowFoam</tspan>
+    </text>
+   </g>
+   <g id="extras_outlines" style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round">
+    <path d="m 389,234 -10,2.5 v 5 l 10,2.5 z" id="first_angle_trapezoid"/>
+    <circle cx="396" cy="239" id="first_angle_inner circle" r="2.5"/>
+    <circle cx="396" cy="239" id="first_angle_outer circle" r="5"/>
+   </g>
+   <g id="extras_centre_lines" style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6, 0.75, 0.125, 0.75">
+    <path d="m 378,239 h 24" id="first_angle_horizontal" style="stroke-dashoffset:0.25"/>
+    <path d="m 396,245 v -12" id="first_angle_vertical" style="stroke-dashoffset:4.625"/>
+   </g>
+  </g>
+  <g fill="none" fill-rule="evenodd" id="DrawingContent" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,394.313,435.493)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">Schnitt A-A</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#152738" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,394.313,435.493)">
+    <text fill="#152738" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" x="337.672" xml:space="preserve" y="92.2188"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M915,75 L915,-75 L730.865,-75 L605,-75 L575,-75 L575,-25 L-575,-25 L-575,-75 L-730.865,-75 L-915,-75 L-915,75 L-605,75 L605,75 L605,225 L605,75 L915,75 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M-730.865,-75 L-605,75 L605,75 L605,-75 L575,-75 L575,-25 L-575,-25 L-575,-75 L-730.865,-75 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M-730.865,-75 L-605,75 L-915,75 L-915,-75 L-730.865,-75 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M915,75 L915,-75 L730.865,-75 L605,75 L915,75 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M605,75 L730.865,-75 L605,-75 L605,75 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="0.7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M915,75 L605,75 L730.865,-75 L915,-75 L915,75 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1831.78,131.595)">
+    <image height="448" image-rendering="optimizeSpeed" preserveAspectRatio="none" width="448" x="0" xlink:href="data:image/png;base64,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" y="0"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="0.7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M-730.865,-75 L-605,75 L-915,75 L-915,-75 L-730.865,-75 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,311.781,131.595)">
+    <image height="448" image-rendering="optimizeSpeed" preserveAspectRatio="none" width="448" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAHACAYAAAA1JbhzAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAHiklEQVR4nO3VwY3kQBADwfHf6TsbVgKUKDDiXx+C7P79AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI74515+w/0BRtWPj3v5lf0BRvl85LfcH2BU/fi4l1/ZH2CUz0d+y/0BRtWPj3v5lf0BeMTn9Y782vwAHvF4vyO/Nj+ARzze78jvdn7AqPrxcS+/sj/AKJ+P/Jb7A4yqHx/38iv7A4zy+chvuT/AqPrxcS+/sj/AKJ+P/Jb7A4yqHx/38iv7A4zy+chPf4A5Pj/56Q8wx+cnP/0B5vj85Kc/wByfn/z0B5jj85Of/gD8kc/zHfndzg8YVT8+7uVX9gcY5fOR33J/gFH14+Nefpf7AxxVPx7u5Xe5P8BR9ePhXn6X+wMcVT8e7uV3uT/AUfXj4V5+l/sDHFU/Hu7ld7k/wFH14+Fefpf7AxxVPx7u5Xe5P8BR9ePhXn6X+wMcVT8e7uW33B8gUo/fvfyW+wNE6vG7l99yf4BIPX738lvuD3BU/Xi4l9/l/gBH1Y+He/ld7g9wVP14uJff5f4AR9WPh3v5Xe4PcFT9eLiX33J/gEg9fvfyW+4PEKnH715+y/0BIvX43ctvuT9ApB6/e/kt9weI1ON3L7/l/gCRevzu5bfcHyBSj9+9/Jb7A0Tq8buX33J/gEg9fvfy0x/gcz4f+enP3f0AR8frXn76A5zj85Kf/nT7ASI+P/npT7cfIOLzk5/+dPsBIj4/+elPtx8g4vOTn/50+wEiPj/56U+3HyDi85Of/tzdD3B0vO7lpz/A53w+8tOfu/sBjo7Xvfz0B/icz0d++nN3P8DR8bqXn/4An/P5yE9/7u4HODpe9/LTH+BzPh/56c/ufmBWPT738tOfbj/AQz6vd+Qnv7I/wEMe73fkJ7+yP8BDHu935Ce/sj/AQx7vd+Qnv7I/wEMe73fkJ7+yP8BDHu935Ce/sj/AQx7vd+Qnv7I/wEMe73fkJ7/L/YFZ9fjcy09/uv3ALJ+P/PRndz8wqx6fe/npT7cfmOXzkZ/+7O4HZtXjcy8//en2A7N8PvLTn939wKx6fO7lpz/dfmCWz0d++rO7H+DoeN3LT3+6/cAsn4/89Gd3PzCrHp97+elPtx+Y5fORn/7s7gdm1eNzLz/96fYDs3w+8tOf3f3ArHp87uWnP91+YJbPR376s7sfmFWPz7389KfbD8zy+chPf+wH5vj85Kc/9gNzfH7y0x/7gTk+P/npj/3AHJ+f/PTHfmCOz09++mM/MMfnJz/9sR/gj3ye78hPfpf7A7Pq8bmXn/7c3Q+cVY/Hvfz05+5+4Kx6PO7lpz939wNn1eNxLz/9ubsfOKsej3v56c/d/cBZ9Xjcy09/7u4HzqrH415++nN3P3BWPR738tOfu/uBs+rxuJef/tzdD5xVj8e9/PRndz+QqcvvXn76s7sfyNTldy8//dndD2Tq8ruXn/7s7gcydfndy09/dvcDmbr87uWnP7v7gbPq8biXn/7c3Q+cVY/Hvfz05+5+4Kx6PO7lpz939wNn1eNxLz/92d0PZOryu5ef/uzuBzJ1+d3LT3929wOZuvzu5ac/u/uBTF1+9/LTn939QKYuv3v56c/ufiBTl9+9/PRndz+QqcvvXn76s7sfyNTldy8//bEf+JzPR376Yz9X3w84W1738tMf+4HP+Xzkpz/2c/X9gLPldS8//bEfOMfnJT/9sZ/q/YCMz09++mM/1fsBGZ+f/PTHfqr3AzI+P/npj/1U7wdkfH7y0x/7ufp+wNnyupef/tgPfM7nIz/9sZ+r7wecLa97+emP/cDnfD7y0x/7ufp+wNnyupef/tgPfM7nIz/9sZ+r7wecLa97+emP/cDnfD7y0x/7ufp+wNnyupef/thP9X4wzOcjP/2xn9X3g2F1+dzLT3/sp3o/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH6f+A9RpAV6l9+R8gAAAABJRU5ErkJggg==" y="0"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="0.7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M915,75 L605,75 L730.865,-75 L915,-75 L915,75 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1831.78,131.595)">
+    <image height="448" image-rendering="optimizeSpeed" preserveAspectRatio="none" width="448" x="0" xlink:href="data:image/png;base64,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" y="0"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="0.7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M-730.865,-75 L-605,75 L-915,75 L-915,-75 L-730.865,-75 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,311.781,131.595)">
+    <image height="448" image-rendering="optimizeSpeed" preserveAspectRatio="none" width="448" x="0" xlink:href="data:image/png;base64,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" y="0"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M915,75 L915,-75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M575,-75 L730.865,-75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M915,-75 L730.865,-75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M915,75 L605,75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M605,75 L730.865,-75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M-605,75 L-915,75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M-605,75 L605,75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M575,-75 L575,-25 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M-730.865,-75 L-575,-75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M-575,-75 L-575,-25 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M-575,-25 L575,-25 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M-915,-75 L-915,75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M-730.865,-75 L-605,75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M-730.865,-75 L-915,-75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-dasharray="60,15" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="5" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M605,225 L605,-75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(0,-1,1,0,2337.35,391.352)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">30</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M1157.07,75 L1157.07,-75 M915,-75 L1185.07,-75 M915,75 L1185.07,75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2452.85,280.595)">
+    <path d="M0,0 L-5.83333,35 L5.83333,35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2452.85,430.595)">
+    <path d="M0,0 L5.83333,-35 L-5.83333,-35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(0.920506,0.390729,-0.390729,0.920506,1997.77,74.2912)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">40°</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,355.595)">
+    <path d="M765.943,-116.804 C722.423,-153.359 666.283,-175.376 605,-175.376 M730.865,-75 L783.937,-138.249 M605,-75 L605,-203.376 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2061.72,238.795)">
+    <path d="M0,0 L-23.062,-26.9662 L-30.5611,-18.029 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1900.78,180.218)">
+    <path d="M0,0 L35,5.83333 L35,-5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M575,75 L915,75 L915,-75 L-915,-75 L-915,75 L-575,75 L575,75 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M575,75 L915,75 L915,-75 L-915,-75 L-915,75 L-575,75 L-575,25 L575,25 L575,75 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M575,75 L575,25 L-575,25 L-575,75 L575,75 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M915,75 L915,-75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M-915,75 L-575,75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M-575,75 L-575,25 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M575,25 L-575,25 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M575,75 L575,25 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M575,75 L915,75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M-915,-75 L915,-75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M-915,75 L-915,-75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M575,75 L-575,75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-dasharray="120,60,60,60" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="5" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M1.42109e-13,-105 L1.42109e-13,105 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1242.56,2569.94)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">366</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M-915,414.496 L915,414.496 M915,-75 L915,442.496 M-915,-75 L-915,442.496 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2210.78,2685.44)">
+    <path d="M0,0 L-35,-5.83333 L-35,5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,380.781,2685.44)">
+    <path d="M0,0 L35,5.83333 L35,-5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(0,-1,1,0,1858.04,2456.51)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">10</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M677.763,199.267 L677.763,-45 M575,25 L705.763,25 M575,75 L705.763,75 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1973.54,2295.94)">
+    <path d="M0,0 L5.83333,-35 L-5.83333,-35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1973.54,2345.94)">
+    <path d="M0,0 L-5.83333,35 L5.83333,35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1244.41,2424.96)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">230</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M575,269.518 L-575,269.518 M-575,75 L-575,297.518 M575,75 L575,297.518 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,720.781,2540.46)">
+    <path d="M0,0 L35,5.83333 L35,-5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1870.78,2540.46)">
+    <path d="M0,0 L-35,-5.83333 L-35,5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,495.882,2425.9)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">(68)</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,2270.94)">
+    <path d="M-915,272.955 L-575,272.955 M-575,75 L-575,300.955 M-915,75 L-915,300.955 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,720.781,2543.9)">
+    <path d="M0,0 L-35,-5.83333 L-35,5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,380.781,2543.9)">
+    <path d="M0,0 L35,5.83333 L35,-5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M575,-662.5 L915,-662.5 L915,662.5 L-915,662.5 L-915,-662.5 L-575,-662.5 L575,-662.5 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M605,-502.5 L605,562.5 L-605,562.5 L-605,-502.5 L605,-502.5 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M575,-557.096 L575,-662.5 L915,-662.5 L915,662.5 L-915,662.5 L-915,-662.5 L-575,-662.5 L-575,-557.096 L-730.865,-557.096 L-730.865,562.5 L-605,562.5 L605,562.5 L730.865,562.5 L730.865,-557.096 L575,-557.096 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M575,-557.096 L575,-538.897 L-575,-538.897 L-575,-557.096 L-575,-662.5 L575,-662.5 L575,-557.096 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M730.865,-557.096 L730.865,562.5 L605,562.5 L605,-502.5 L730.865,-557.096 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-605,562.5 L-605,-502.5 L-730.865,-557.096 L-730.865,562.5 L-605,562.5 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M575,-557.096 L730.865,-557.096 L605,-502.5 L-605,-502.5 L-730.865,-557.096 L-575,-557.096 L-575,-538.897 L575,-538.897 L575,-557.096 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M915,-662.5 L915,662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-915,-662.5 L-575,-662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M575,-662.5 L-575,-662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M575,-662.5 L915,-662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M915,662.5 L-915,662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M575,-557.096 L575,-662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M575,-557.096 L730.865,-557.096 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M730.865,-557.096 L730.865,562.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M730.865,562.5 L-730.865,562.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-730.865,562.5 L-730.865,-557.096 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-730.865,-557.096 L-575,-557.096 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-575,-662.5 L-575,-557.096 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-915,662.5 L-915,-662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M605,-502.5 L605,562.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-605,562.5 L-605,-502.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-605,-502.5 L605,-502.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-575,-557.096 L-575,-538.897 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-575,-538.897 L575,-538.897 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M575,-557.096 L575,-538.897 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M730.865,-557.096 L605,-502.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-730.865,-557.096 L-605,-502.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-dasharray="84,42,42,42" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-1015,1.015e-13 L1015,-1.015e-13 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="butt" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-1015,35 L-1015,87.5 M1015,35 L1015,87.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#000000" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(-4.37114e-08,-1,1,-4.37114e-08,280.781,1383.44)">
+    <path d="M0,0 L-35,-5.83333 L-35,5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#000000" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(-4.37114e-08,-1,1,-4.37114e-08,2310.78,1383.44)">
+    <path d="M0,0 L-35,-5.83333 L-35,5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-1032.5,1.0325e-13 L-1015,1.015e-13 L-997.5,9.975e-14 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M997.5,-9.975e-14 L1015,-1.015e-13 L1032.5,-1.0325e-13 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-dasharray="84,42,42,42" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-7.625e-14,-762.5 L7.625e-14,762.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="butt" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-35,-762.5 L-87.5,-762.5 M-35,762.5 L-87.5,762.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#000000" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1295.78,620.941)">
+    <path d="M0,0 L-35,-5.83333 L-35,5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#000000" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1295.78,2145.94)">
+    <path d="M0,0 L-35,-5.83333 L-35,5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-7.8e-14,-780 L-7.625e-14,-762.5 L-7.45e-14,-745 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M7.45e-14,745 L7.625e-14,762.5 L7.8e-14,780 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(0,-1,1,0,1684.23,1635.76)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">213</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M503.947,-502.5 L503.947,562.5 M605,562.5 L475.947,562.5 M605,-502.5 L475.947,-502.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1799.73,1945.94)">
+    <path d="M0,0 L5.83333,-35 L-5.83333,-35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1799.73,880.941)">
+    <path d="M0,0 L-5.83333,35 L5.83333,35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1049.66,1015.74)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">242</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M-605,-252.204 L605,-252.204 M605,-502.5 L605,-224.204 M-605,-502.5 L-605,-224.204 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1900.78,1131.24)">
+    <path d="M0,0 L-35,-5.83333 L-35,5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,690.781,1131.24)">
+    <path d="M0,0 L35,5.83333 L35,-5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(0,-1,1,0,2323.21,1784.65)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">265</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M1142.93,-662.5 L1142.93,662.5 M915,662.5 L1170.93,662.5 M915,-662.5 L1170.93,-662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2438.71,2045.94)">
+    <path d="M0,0 L5.83333,-35 L-5.83333,-35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2438.71,720.941)">
+    <path d="M0,0 L-5.83333,35 L5.83333,35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2049.95,1453.32)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">(~37)</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M730.865,187.88 L915,187.88 M915,662.5 L915,159.88 M730.865,-557.096 L730.865,215.88 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2210.78,1571.32)">
+    <path d="M0,0 L-35,-5.83333 L-35,5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2026.65,1571.32)">
+    <path d="M0,0 L35,5.83333 L35,-5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2071.27,1671.19)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">62</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M915,403.248 L605,403.248 M605,-502.5 L605,431.248 M915,-502.5 L915,431.248 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1900.78,1786.69)">
+    <path d="M0,0 L35,5.83333 L35,-5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2210.78,1786.69)">
+    <path d="M0,0 L-35,-5.83333 L-35,5.83333 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(0,-1,1,0,1545.89,1900.3)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">20</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M365.607,732.5 L365.607,432.937 M730.865,562.5 L337.607,562.5 M730.865,662.5 L337.607,662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1661.39,1945.94)">
+    <path d="M0,0 L5.83333,-35 L-5.83333,-35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1661.39,2045.94)">
+    <path d="M0,0 L-5.83333,35 L5.83333,35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(0,1,-1,0,2401.71,765.23)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">32</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M990.433,-502.5 L990.433,-662.5 M605,-662.5 L1018.43,-662.5 M605,-502.5 L1018.43,-502.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2286.21,720.941)">
+    <path d="M0,0 L-5.83333,35 L5.83333,35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2286.21,880.941)">
+    <path d="M0,0 L5.83333,-35 L-5.83333,-35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1395.77,2056.07)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">B</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#152738" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1395.77,2056.07)">
+    <text fill="#152738" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" x="42.9844" xml:space="preserve" y="92.2188"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1436.27,561.363)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">B</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#152738" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1436.27,561.363)">
+    <text fill="#152738" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" x="42.9844" xml:space="preserve" y="92.2188"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2248.81,1205.63)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">A</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#152738" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2248.81,1205.63)">
+    <text fill="#152738" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" x="45.1406" xml:space="preserve" y="92.2188"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,282.871,1205.63)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">A</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#152738" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,282.871,1205.63)">
+    <text fill="#152738" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" x="45.1406" xml:space="preserve" y="92.2188"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1.17146e-15,-1,1,1.17146e-15,2012.61,691.439)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">(~21)</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,1295.78,1383.44)">
+    <path d="M834.828,-832.092 L834.828,-487.096 M730.865,-557.096 L862.828,-557.096 M730.865,-662.5 L862.828,-662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2130.61,826.346)">
+    <path d="M0,0 L-5.83333,35 L5.83333,35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2130.61,720.941)">
+    <path d="M0,0 L5.83333,-35 L-5.83333,-35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2786.55,2070.94)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">Schnitt B-B</text>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M-75,662.5 L75,662.5 L75,562.5 L75,-557.096 L75,-662.5 L25,-662.5 L-75,-662.5 L-75,-502.5 L-75,562.5 L-75,662.5 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M75,-557.096 L75,562.5 L-75,562.5 L-75,-502.5 L25,-538.897 L75,-557.096 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M-75,662.5 L75,662.5 L75,562.5 L-75,562.5 L-75,662.5 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M25,-538.897 L25,-662.5 L-75,-662.5 L-75,-502.5 L25,-538.897 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M75,-557.096 L75,-662.5 L25,-662.5 L25,-538.897 L75,-557.096 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M502.5,-242.5 L502.5,92.5 L502.5,-242.5 Z " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="0.7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M25,-538.897 L25,-662.5 L-75,-662.5 L-75,-502.5 L25,-538.897 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2674.73,672.941)">
+    <image height="256" image-rendering="optimizeSpeed" preserveAspectRatio="none" width="256" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADXUlEQVR4nO3YsQ3EQAwEMfff9H0Vj8FCZK5kcePA3wcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFzz3E/vB7OP1z2MEm+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxt/tBRvztfpARf7sfZMTf7gcZ8bf7QUb87X6QEf/2fjD7eN1DRHzb+8Hs43UPo8Tb7gcZ8bf7QUb87X6QEX+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxt/tBRvztfpARf7sfZMS/vR/MPl73EBHf9n4w+3jdwyjxtvtBRvztfpARf7sfZMTf7gcZ8bf7QUb87X6QEX+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxb+8Hs4/XPUTEt70fzD5e9zBKvO1+kBF/ux9kxN/uBxnxt/tBRvztfpARf7sfZMTf7gcZ8bf7QUb87X6QEX+7H2TE3+4HGfG3+0FG/Nv7wezjdQ8R8W3vB7OP1z2MEm+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxt/tBRvztfpARf7sfZMTf7gcZ8bf7QUb87X6QEf/2fjD7eN1DRHzb+8Hs43UPo8Tb7gcZ8bf7QUb87X6QEX+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxt/tBRvztfpARf7sfZMS/vR/MPl73EBHf9n4w+3jdwyjxtvtBRvztfpARf7sfZMTf7gcZ8bf7QUb87X6QEX+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxb+8Hs4/XPUTEt70fzD5e9zBKvO1+kBF/ux9kxN/uBxnxt/tBRvztfpARf7sfZMTf7gcZ8bf7QUb87X6QEX+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxt/vBLB8POOp6/HDWO34PZ73j93DWO34PZ73j93DWO34PZ73j93DWO34PZ73j93DWO34PZ9XxiRcidbzih0gdr/ghUscrfojU8YofRokfjhI/HCV+OEr8cJQfdnCU+OEo8cNR4oejxA9HiR+OEj8cJX44SvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA35/9AK2Hc7dC4ZBNAAAAAElFTkSuQmCC" y="0"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="0.7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M-75,662.5 L-75,562.5 L75,562.5 L75,662.5 L-75,662.5 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2731.73,1899.94)">
+    <image height="192" image-rendering="optimizeSpeed" preserveAspectRatio="none" width="192" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACvUlEQVR4nO3SsQ3DAAzEQO+/dDKEETAP3fVfiNDzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD/Pvb6XeX59TvL8+t3lufX7yzPr99Znl+/szy/fmd5fv3K/0l5fv3e8PxhPPvtfqn6ePvb/VL18fa3+6Xq4+1v95tWx7Pf7jetjme/3W9aHc9+u9+0Op79dr9pdTz77X7T6nj22/2m1fHst/tNq+PZb/ebVsez3+43rY5nv91vWh3P/na/VH28/e1+qfp4+9v9UvXx9rf7perj7W/3S9XH29/uN62OZ7/db1odz36737Q6nv12v2l1PPvtftPqePbb/abV8ey3+02r49lv95tWx7Pf7jetjme/3W9aHc9+u9+0Op797X6p+nj72/1S9fH2t/ul6uPtb/dL1cfb3+6Xqo+3v91vWh3PfrvftDqe/Xa/aXU8++1+0+p49tv9ptXx7Lf7Tavj2W/3m1bHs9/uN62OZ7/db1odz36737Q6nv12v2l1PPvb/VL18fa3+6Xq4+1v90vVx9vf7peqj7e/3S9VH29/u9+0Op79dr9pdTz77X7T6nj22/2m1fHst/tNq+PZb/ebVsez3+43rY5nv91vWh3PfrvftDqe/Xa/aXU8++1+0+p49rf7perj7W/3S9XH29/ul6qPt7/dL1Ufb3+7X6o+3v52v2l1PPvtftPqePbb/abV8ey3+02r49lv95tWx7Pf7jetjme/3W9aHc9+u9+0Op79dr9pdTz77X7T6nj22/2m1fHsb/dL1cfb3+6Xqo+3v90vVR9vf7tfqj7e/na/VH28/e1+0+p49tv9ptXx7Lf7Tavj2W/3m1bHs9/uN62OZ7/db1odz36737Q6nv12PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeX/sC+GKkhmfLbIcAAAAASUVORK5CYII=" y="0"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="0.7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M25,-538.897 L25,-662.5 L-75,-662.5 L-75,-502.5 L25,-538.897 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2674.73,672.941)">
+    <image height="256" image-rendering="optimizeSpeed" preserveAspectRatio="none" width="256" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADXUlEQVR4nO3YsQ3EQAwEMfff9H0Vj8FCZK5kcePA3wcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFzz3E/vB7OP1z2MEm+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxt/tBRvztfpARf7sfZMTf7gcZ8bf7QUb87X6QEf/2fjD7eN1DRHzb+8Hs43UPo8Tb7gcZ8bf7QUb87X6QEX+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxt/tBRvztfpARf7sfZMS/vR/MPl73EBHf9n4w+3jdwyjxtvtBRvztfpARf7sfZMTf7gcZ8bf7QUb87X6QEX+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxb+8Hs4/XPUTEt70fzD5e9zBKvO1+kBF/ux9kxN/uBxnxt/tBRvztfpARf7sfZMTf7gcZ8bf7QUb87X6QEX+7H2TE3+4HGfG3+0FG/Nv7wezjdQ8R8W3vB7OP1z2MEm+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxt/tBRvztfpARf7sfZMTf7gcZ8bf7QUb87X6QEf/2fjD7eN1DRHzb+8Hs43UPo8Tb7gcZ8bf7QUb87X6QEX+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxt/tBRvztfpARf7sfZMS/vR/MPl73EBHf9n4w+3jdwyjxtvtBRvztfpARf7sfZMTf7gcZ8bf7QUb87X6QEX+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxb+8Hs4/XPUTEt70fzD5e9zBKvO1+kBF/ux9kxN/uBxnxt/tBRvztfpARf7sfZMTf7gcZ8bf7QUb87X6QEX+7H2TE3+4HGfG3+0FG/O1+kBF/ux9kxN/uBxnxt/vBLB8POOp6/HDWO34PZ73j93DWO34PZ73j93DWO34PZ73j93DWO34PZ73j93DWO34PZ9XxiRcidbzih0gdr/ghUscrfojU8YofRokfjhI/HCV+OEr8cJQfdnCU+OEo8cNR4oejxA9HiR+OEj8cJX44SvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA35/9AK2Hc7dC4ZBNAAAAAElFTkSuQmCC" y="0"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="0.7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M-75,662.5 L-75,562.5 L75,562.5 L75,662.5 L-75,662.5 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2731.73,1899.94)">
+    <image height="192" image-rendering="optimizeSpeed" preserveAspectRatio="none" width="192" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACvUlEQVR4nO3SsQ3DAAzEQO+/dDKEETAP3fVfiNDzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD/Pvb6XeX59TvL8+t3lufX7yzPr99Znl+/szy/fmd5fv3K/0l5fv3e8PxhPPvtfqn6ePvb/VL18fa3+6Xq4+1v95tWx7Pf7jetjme/3W9aHc9+u9+0Op79dr9pdTz77X7T6nj22/2m1fHst/tNq+PZb/ebVsez3+43rY5nv91vWh3P/na/VH28/e1+qfp4+9v9UvXx9rf7perj7W/3S9XH29/uN62OZ7/db1odz36737Q6nv12v2l1PPvtftPqePbb/abV8ey3+02r49lv95tWx7Pf7jetjme/3W9aHc9+u9+0Op797X6p+nj72/1S9fH2t/ul6uPtb/dL1cfb3+6Xqo+3v91vWh3PfrvftDqe/Xa/aXU8++1+0+p49tv9ptXx7Lf7Tavj2W/3m1bHs9/uN62OZ7/db1odz36737Q6nv12v2l1PPvb/VL18fa3+6Xq4+1v90vVx9vf7peqj7e/3S9VH29/u9+0Op79dr9pdTz77X7T6nj22/2m1fHst/tNq+PZb/ebVsez3+43rY5nv91vWh3PfrvftDqe/Xa/aXU8++1+0+p49rf7perj7W/3S9XH29/ul6qPt7/dL1Ufb3+7X6o+3v52v2l1PPvtftPqePbb/abV8ey3+02r49lv95tWx7Pf7jetjme/3W9aHc9+u9+0Op79dr9pdTz77X7T6nj22/2m1fHsb/dL1cfb3+6Xqo+3v90vVR9vf7tfqj7e/na/VH28/e1+0+p49tv9ptXx7Lf7Tavj2W/3m1bHs9/uN62OZ7/db1odz36737Q6nv12PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeX/sC+GKkhmfLbIcAAAAASUVORK5CYII=" y="0"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M25,-662.5 L-75,-662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M75,-662.5 L25,-662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M-75,662.5 L75,662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M75,-557.096 L75,-662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M75,-557.096 L75,562.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M75,662.5 L75,562.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M-75,-502.5 L-75,-662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M-75,-502.5 L-75,562.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M-75,662.5 L-75,562.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M25,-538.897 L25,-662.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M25,-538.897 L-75,-502.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M75,-557.096 L25,-538.897 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="7" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M-75,562.5 L75,562.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-dasharray="60,15" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="5" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M-242.5,-502.5 L92.5,-502.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(0.150683,0.988582,-0.988582,0.150683,3148.8,771.644)">
+    <text fill="#212529" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92.2188">20°</text>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,2827.73,1383.44)">
+    <path d="M217.521,-502.5 C217.521,-562.577 199.41,-618.424 168.35,-664.879 M209.239,-433.101 C214.652,-455.347 217.521,-478.589 217.521,-502.5 M75,-502.5 L245.521,-502.5 M25,-538.897 L226.191,-612.125 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,3045.25,880.941)">
+    <path d="M0,0 L-5.83333,35 L5.83333,35 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#212529" fill-opacity="1" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="3.5" transform="matrix(1,0,0,1,3027.61,780.893)">
+    <path d="M0,0 L-6.48916,-34.8844 L-17.4522,-30.8941 L0,0 Z " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Noto Sans" font-size="35.2778" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2984.16,56.2974)">
+    <image height="1024" image-rendering="optimizeQuality" preserveAspectRatio="none" width="1280" x="0" xlink:href="data:image/png;base64,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AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgN8n8Bi0iE6DGvoRkAAAAASUVORK5CYII=" y="0"/>
+   </g>
+  </g>
+ </g>
+</svg>

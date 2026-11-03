@@ -2,3 +2,5 @@
 *.pdf
 Abschlussbericht*.md
 *.FCBak
+.directory
+*~lock.*
