@@ -30,12 +30,12 @@ Die jeweiligen Anwendungsbereiche der einzelnen Module sind in der jeweiligen Mo
 ## Enthaltene Module
 
 - [repair-m04b](docs/repair-m04b.md): **Basiswerkzeuge** (mit iFixit-4-mm-Bit-Halter) – Variante: [repair-m04a](docs/repair-m04a.md)
-- [repair-m06](docs/repair-m06): Fahrrad-Basics
-- [repair-m07](docs/repair-m07): Schraubenschlüssel
-- [repair-m08](docs/repair-m08): Elektronik-Basics
-- [repair-m09](docs/repair-m09): Elektronik-Fehlersuche
-- [repair-m10](docs/repair-m10): Textilien
-- [repair-m11](docs/repair-m11): Kleben
+- [repair-m06](docs/repair-m06.md): Fahrrad-Basics
+- [repair-m07](docs/repair-m07.md): Schraubenschlüssel
+- [repair-m08](docs/repair-m08.md): Elektronik-Basics
+- [repair-m09](docs/repair-m09.md): Elektronik-Fehlersuche
+- [repair-m10](docs/repair-m10.md): Textilien
+- [repair-m11](docs/repair-m11.md): Kleben
 
 ![](assets/Pegboard-Module-Materials.jpg)
 

@@ -23,19 +23,19 @@ Website: <https://askotec.openculture.agency/repairkit>
 
 Different application scenarios call for different kits. Any combination of the modules and didactic materials documented in this repository can be compiled into a case tailored to the scenario at hand. Pick and combine whatever fits to assemble your own compilation. 
 
-In its original form the Basic Tools module ([repair-m04a](/docs/repair-m04a.md) and later transformed into [-m04b](/docs/repair-m04b.md))
+In its original form, the Basic Tools module was [repair-m04a](/docs/repair-m04a.md), later transformed into [-m04b](/docs/repair-m04b.md).
 
 See the individual module documentation for the specific applications each one covers.
 
 ## Modules included
 
 - [repair-m04b](docs/repair-m04b.md): **Basic Tools** (with iFixit 4mm bit holder) - variant: [repair-m04a](docs/repair-m04a.md)
-- [repair-m06](docs/repair-m06): Bike Basics
-- [repair-m07](docs/repair-m07): Wrenches
-- [repair-m08](docs/repair-m08): Electronics Basics
-- [repair-m09](docs/repair-m09): Electronics Troubleshooting
-- [repair-m10](docs/repair-m10): Textiles
-- [repair-m11](docs/repair-m11): Gluing
+- [repair-m06](docs/repair-m06.md): Bike Basics
+- [repair-m07](docs/repair-m07.md): Wrenches
+- [repair-m08](docs/repair-m08.md): Electronics Basics
+- [repair-m09](docs/repair-m09.md): Electronics Troubleshooting
+- [repair-m10](docs/repair-m10.md): Textiles
+- [repair-m11](docs/repair-m11.md): Gluing
 
 
 ![](assets/Pegboard-Module-Materials.jpg)
