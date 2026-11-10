@@ -12,7 +12,7 @@
 3. Tape Measure
 4. Adjustable wrench
 5. Pointed pliers
-6. Screwdriver iFixit 4mm Bit Holder
+6. Screwdriver iFixit 4mm Bit Holder (last-minute swap for the voltage tester — see [DESIGN-DECISIONS.md](../DESIGN-DECISIONS.md), 25.09.26: this recess has no laser-cutting file, it was milled by hand with a Dremel)
 7. Telescopic Magnet
 
 ---
