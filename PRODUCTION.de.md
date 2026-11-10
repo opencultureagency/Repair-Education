@@ -3,15 +3,72 @@
 
 ## Konturen erstellen
 
-- Schnittkonturen für die Teile erstellen.
+Verwendetes Werkzeug: **Inkscape**.
+
+### 1. Foto des Werkzeugs
+
+- Das Werkzeug wird mit geeignetem Hintergrund fotografiert – meistens ist ein **heller Hintergrund** am besten geeignet.
+- Alternativ kann unter Umständen auch ein **Produktbild von der Hersteller-/Shop-Website** verwendet werden.
+
+### 2. Maß und Rechteck
+
+- Das Werkzeug wird ausgemessen.
+- Das Foto wird in Inkscape platziert, dazu ein Rechteck ("Block") in der gemessenen Höhe erstellt und halbtransparent gemacht.
+- Das Foto wird dann so skaliert, dass es zu diesem Rechteck passt.
+
+### 3. Kontur zeichnen
+
+- Die Kontur wird **von Hand mit dem Pfadwerkzeug** um das Werkzeug herum gezeichnet.
+- **Learning:** Das automatische Erzeugen der Kontur per "Bitmap zu Kontur nachzeichnen" aus dem Foto hat sich als ungeeignet herausgestellt – es entstehen dabei extrem viele Pfadpunkte, was Inkscape teilweise zum Abstürzen bringt.
+
+### 4. Ecken-Radius
+
+- Bei manchen Konturen bietet es sich an, den Pfadeffekt **Ecken** zu verwenden, um einen Radius (z. B. 1 mm oder auch etwas mehr) auf die Ecken zu legen – sieht schöner aus.
+
+### 5. Versatz (Offset) wegen Laser-Schnittbreite
+
+- In Inkscape: **Pfadeffekt** → **Versatz**. Damit lässt sich die ganze Kontur um einen festen Betrag vergrößern oder verkleinern.
+- Wir haben die Kontur um **0,15 mm verkleinert**, um die Dicke des Laserstrahls zu kompensieren.
+- Der genaue Wert hängt vom jeweils verwendeten Laser-Cutter ab.
+
+### 6. Stege
+
+- Stege sorgen dafür, dass die ausgeschnittenen Teile nicht direkt aus der Pappe herausfallen – empfiehlt sich grundsätzlich.
+- Bei uns wurden die Stege nicht in Inkscape, sondern über die **xTool-Software** erzeugt.
+
+### 7. Testen und Fein-Tunen
+
+- Dazu empfiehlt es sich, **mit dem Computer direkt beim Laser-Cutter** zu sein, und die **Werkzeuge, die später hineinpassen sollen, vor Ort** zu haben.
+- Ablauf: lasern → mit den echten Werkzeugen die Passung prüfen → in Inkscape nachkorrigieren → erneut lasern.
+- Es sind in der Regel **mehrere Iterationen** nötig, bis die Kontur passt.
 
 ## Lasern der Einzelteile (Layer)
 
-- Die einzelnen Schichten/Layer lasern.
+Laser-Cutting-Dateien: [prod/modules](prod/modules)
+
+Verwendeter Laser-Cutter: **xTool**, 40 W CO2-Laser. Die folgenden Einstellungen beziehen sich darauf:
+
+| Material | Leistung [%] | Geschwindigkeit [mm/s] |
+| --- | --- | --- |
+| Wellpappe 6,3 mm | 45 | 30 |
+| MDF schwarz 5 mm | 40 | 18 |
+| Vollpappe schwarz 0,3 mm | 20 | 50 |
+| Schaumstoff 3 mm | 30 | 70 |
+
+- Diese Werte gelten für den oben genannten Laser-Cutter und können je nach verwendetem Gerät variieren.
+- Am besten einmal einen **Geschwindigkeits-vs-Leistungs-Test** (eine Testmatrix, wie beim Laser-Cutting üblich) für das jeweils eigene Gerät durchführen.
+- Es kann auch eine andere Software als die mitgelieferte des jeweiligen Laser-Cutter-Herstellers verwendet werden – dafür stehen die Quell- bzw. Produktionsdateien in diesem Repo zur Verfügung.
+- **Wellenrichtung der Wellpappe beachten:** Wir haben die Wellen **parallel zur kurzen Seite** ausgerichtet – wenn man das Modul vor sich liegen hat, verlaufen sie also von oben nach unten (nicht von links nach rechts).
+- Die Kanten der gelaserten Teile können **abgesaugt werden, um den Ruß zu entfernen**.
 
 ## Erstellen der Hintergrundbilder
 
-- [ ] TODO: gleicher Prozess wie bei Lochraster (siehe oben) oder abweichend? Bitte bestätigen.
+- Von den gelaserten Wellpappe-Teilen einige nehmen und nur die benötigten Konturen herausklicken – so lässt sich ein Modul **ohne zu kleben** probeweise zusammenstecken.
+- Die Werkzeuge in das so zusammengesteckte Modul einlegen.
+- Das Ganze fotografieren.
+- Helligkeit/Kontrast nachbearbeiten (z. B. mit GIMP oder einem anderen Programm), damit die Werkzeuge gut erkennbar sind.
+- Auf A4 zuschneiden/anpassen (äquivalent zur Nachbearbeitung in GIMP weiter unten im Abschnitt zu den Lochraster-Modulen).
+
 
 ## Kleben
 
@@ -21,11 +78,11 @@ Benötigte Layer (Aufbau von unten nach oben):
 2. **Mehrere Lagen gelaserte Wellpappe mit Kontur** – mit jeweils nur den Aussparungen, die auf dieser Tiefe tatsächlich benötigt werden (das tiefste Werkzeug braucht entsprechend in den meisten Lagen eine Aussparung). Hintergrundbild mit Werkzeug (auf Papier gedruckt) wird hier aufgeklebt.
 3. **Moosgummi mit Kontur** (oben) – mit den gleichen Aussparungen wie die oberste Pappe-Lage.
 
-Das Gesamtbild (Fotos der Werkzeuge) ist bereits passend auf die einzelnen Lagen aufgeteilt gedruckt: pro Lage klebt man nur den Bildausschnitt der Werkzeuge, deren Aussparung genau auf dieser Tiefe endet. Das vollständige Bild ergibt sich dadurch erst im fertig gestapelten Modul, weil jedes Werkzeug-Foto genau auf der Lage sitzt, auf der sein Aussparungsboden liegt.
+Fotos der Werkzeuge: pro Lage klebt man nur den Bildausschnitt der Werkzeuge, deren Aussparung genau auf dieser Tiefe endet. 
 
 ### Material
 
-- **Klebtool** (3D-gedruckt; Modell im Repo: [prod/Gluing-Tool.stl](../prod/Gluing-Tool.stl), Quelle: [src/CAD/Gluing-Tool.FCStd](../src/CAD/Gluing-Tool.FCStd))
+- **Klebtool** (3D-gedruckt; Modell im Repo: [prod/Gluing-Tool.stl](prod/Gluing-Tool/Gluing-Tool.stl), Quelle: [src/CAD/Gluing-Tool.FCStd](src/CAD/Gluing-Tool/Gluing-Tool.FCStd))
 - **Ponal Express Leim**, aufgetragen mit einer **kleinen Malerrolle** + **Farbwanne**
 - **Prittstift** (zum Ankleben der Bildausschnitte)
 - Ausgedruckte **Werkzeughintergrundbilder** auf 160 g/m² Papier
@@ -34,11 +91,11 @@ Das Gesamtbild (Fotos der Werkzeuge) ist bereits passend auf die einzelnen Lagen
 
 ### Vorgehen
 
-1. [[[ raus? ]]] Die dünne Hintergrundpappe (ohne Kontur) als Basis auf den Tisch legen.
+1. Wir starten mit der dünnen Hintergrundpappe (ohne Kontur), sie soll die hinterste Lage des Moduls werden. Also legen wir sie zunächst als Basis in das Kleb-Tool.
 2. Pro Wellpappe-Lage, von unten nach oben:
    1. Die für diese Tiefe benötigten Pappkonturen aus der gelaserten Wellpappe herausbrechen (nur dort, wo ein Werkzeug genau auf dieser Tiefe eine Aussparung braucht).
-   2. Mit dem Cutter die passenden Bildausschnitte aus dem Papier mit den Werkzeughintergrundbildern ausschneiden, mit ordentlichem Rand drumherum – nur die Bilder der Werkzeuge, deren Aussparung genau auf dieser Lage endet. Ein Leuchttisch hilft, die Position genau zu treffen.
-   3. Mit dem Prittstift Kleber auf die unbedruckte Rückseite des Papierausschnitts auftragen und von hinten auf die passende Stelle der Pappe-Lage kleben (bedruckte Seite zeigt nach oben).
+   2. Mit dem Cutter die passenden Bildausschnitte aus dem Papier mit den Werkzeughintergrundbildern ausschneiden, mit reichlich Rand (so wie es möglich ist) drumherum – nur die Bilder der Werkzeuge, deren Aussparung genau auf dieser Lage endet. 
+   3. Mit dem Prittstift Kleber auf die unbedruckte Rückseite des Papierausschnitts auftragen und von hinten auf die passende Stelle der Pappe-Lage kleben (bedruckte Seite zeigt nach oben). Ein Leuchttisch hilft, die Position genau zu treffen.
    4. Die gesamte Rückseite dieser Pappe-Lage mit Ponal Express (Malerrolle + Farbwanne) benetzen und mit dem Klebtool auf den bisherigen Stapel aufkleben. Bei dem ersten (untersten) Papplayer wird dieser auf die dünne Hintergrundpappe ohne Kontur aufgeklebt. 
 3. Schritt 2 für alle weiteren Wellpappe-Lagen wiederholen, sodass sich das Modul Lage für Lage aufbaut.
 4. Zum Schluss die Moosgummi-Lage mit Kontur oben aufkleben.
@@ -56,14 +113,14 @@ Prozess für die Erstellung der Hintergrundbilder, das sandwichmäßige Zusammen
 - Vor dem Fotografieren wird das auf **5 %** ausgedruckte Lochraster-Papier untergelegt.
 - Die Items werden darauf so angeordnet, wie sie später auf der Lochrasterplatte tatsächlich liegen würden (gleiche Anordnung/Raster).
 - **Weißabgleich:** auf den **schwarzen Hintergrund**, damit eine relativ helle Belichtung entsteht.
-  - [ ] Tim: bitte hier noch genau nachtragen, wie der Weißabgleich konkret eingestellt wurde.
 
 ### 2. Nachbearbeitung in GIMP
 
 - Mit dem **Kurvenwerkzeug** den Hintergrund auf **komplettes Weiß** bringen.
 - Schatten dabei möglichst ebenfalls entfernen/minimieren.
-- Datei **gimp-anpass-schablone.png** als Ebene in das Bild ziehen.
+- Datei [Perspective-Correction-Guide.png](assets/modules/Perspective-Correction-Guide.png) als Ebene in das Bild ziehen.
   - Wird als Referenz für das **Perspektive-Werkzeug** genutzt, um das Foto ins korrekte Format zu ziehen (entzerren).
+- Mit der **Käfig-Transformation** oder der **Verformen-(Warp-)Transformation** das Foto so anpassen, dass es auf die Schablone passt. Damit werden Verzerrungen entfernt, die beim Fotografieren entstehen (abhängig davon, wie weit die Kamera vom fotografierten Modul entfernt war).
 - Mit dem **Zuschneiden-Werkzeug (Cropping)** auf das A4-Seitenverhältnis **1,414 : 1** zuschneiden – alles außenherum wegschneiden.
 - Auf die korrekte Pixelgröße für **300 dpi bei A4** skalieren: **2480 × 3508 Pixel**.
 - **Export als JPG.**
@@ -71,7 +128,7 @@ Prozess für die Erstellung der Hintergrundbilder, das sandwichmäßige Zusammen
 ### 3. Weiterverarbeitung in Inkscape
 
 - JPG importieren.
-- Eine **weiße Ebene mit 30 % Deckkraft** darüberlegen (siehe [[Design Decisions (& Notes)]] – 70 % Deckkraft der Drucklayer).
+- Eine **weiße Ebene mit 30 % Deckkraft** darüberlegen (siehe [DESIGN-DECISIONS.de.md](DESIGN-DECISIONS.de.md) – 70 % Deckkraft der Drucklayer).
 - **Export als PDF.**
 
 ### 4. Druck
@@ -102,14 +159,14 @@ Prozess für die Erstellung der Hintergrundbilder, das sandwichmäßige Zusammen
 
 ### Aufbau des Sandwich (von oben nach unten)
 
-![](../assets/Pegboard-Module-Materials.jpg)
+![](assets/Pegboard-Module-Materials.jpg)
 
 1. **Papier** mit den aufgedruckten Tools, gedruckt auf **160 g/m²**.
 2. **Lochraster-Platine** (MDF).
-   - [ ] Link zu den Laser-Cutting-Files noch hinzufügen.
 3. **Pappschicht**.
-   - [ ] Material- und Lasercutting-Links bzw. Ordner noch hinzufügen.
 4. **Moosgummischicht** (unten).
+
+Druck- und Laser-Cutting-Dateien: [prod/modules](prod/modules)
 
 ### Vorgehen
 
@@ -129,20 +186,44 @@ Prozess für die Erstellung der Hintergrundbilder, das sandwichmäßige Zusammen
 
 ---
 
-## Legacy "Production Steps" (from the general Repair-Kit README — needs review)
+# Produktion der Versandsicherung
 
-> **TODO:** Go through this list and check whether anything still needs to be carried over into the sections above. Right now, the 3D-printing of the gluing/stacking tool is the one point that still looks relevant and isn't captured above yet.
+Die Versandsicherung besteht aus zwei Schaumstoffteilen (Boden + Oberteil), die die Module in der Versandkiste gegen Verrutschen und Beschädigung sichern. Hintergrund zu den Designentscheidungen: siehe [DESIGN-DECISIONS.de.md](DESIGN-DECISIONS.de.md) .
 
-The following is the old, general production checklist this section replaced in the main README — kept here for reference until reviewed:
+## Teile
 
-* Ordering all required items.
-* Laser-cutting the cardboard layers in the `/prod/` folder.
-* Unpacking and checking all items.
-* Preparing special items (e.g., cutting hook-and-loop fasteners and rubber bands; cutting and putting together heat shrink tubes; cutting sandpaper).
-* Picking items using the provided pick-list (in `BOM.fods`).
-* Printing and cutting the photos of the tools.
-* Preparing the workspace, including 3D-printing the gluing and stacking tool via `stl` in `/prod/`. (For Bambulab P1S you can use the provided `gcode` example)
-* Gluing the layers together. (be aware this takes a lot of time, alternatively you can also skip the laser-cut layer approach and use the grid system, see `/src/CAD/README.md`)
-* Final assembly and packing. (assembly documentation will follow)
-* Documenting feedback in the issue list.
-* If you want to become a case study partner you can either join repami.de in their current unit testing series in Berlin or request a separate project via openculture.agency.
+1. **Boden-Teil** – Quelle: [src/CAD/packaging/Shipping-Protection_Bottom.FCStd](src/CAD/packaging/Shipping-Protection_Bottom.FCStd), Produktionsdatei: [prod/packaging/Shipping-Protection_Bottom.svg](prod/packaging/Shipping-Protection_Bottom.svg)
+2. **Oberteil** – sichert die Module zusätzlich gegen Hin- und Herrutschen; an der linken und rechten inneren Kante schräg geschnitten, damit es sich in die Radien der Pappmodule einfügt und so eine gute Klemmung entsteht. Quelle: [src/CAD/packaging/Shipping-Protection_Top.FCStd](src/CAD/packaging/Shipping-Protection_Top.FCStd), Produktionsdatei: [prod/packaging/Shipping-Protection_Top.svg](prod/packaging/Shipping-Protection_Top.svg)
+
+## Schneiden
+
+### Material
+
+- **ShadowFoam, 30 mm dick.** Bestelllink/-angabe siehe [BOM.fods](BOM.fods).
+
+### Werkzeug
+
+- **Schneideunterlage** – z. B. eine dafür geeignete Schneidematte (oder etwas vergleichbares).
+- **Cuttermesser** – ein normales Cuttermesser reicht aus, das [von iFixit](https://www.ifixit.com/de-de/products/precision-utility-knife) ist gut geeignet. (ShadowFoam legt manchen Paketen auch passende Schneidemesser bei.)
+- **Langes Lineal**, idealerweise ein **Winkel aus Metall** – aus Metall, damit man nicht versehentlich ins Lineal selbst reinschneidet.
+
+### Vorgehen
+
+1. Die technischen Zeichnungen des jeweiligen Teils bereitlegen – am Computer oder ausgedruckt.
+2. Anhand der technischen Zeichnung und der Maßangaben zurechtschneiden.
+
+**Tipp zum Anzeichnen:** Auf dem ShadowFoam lässt sich schlecht anzeichnen. Nachdem man ein Maß abgemessen hat, einmal kurz einritzen. Zusätzlich kann man direkt daneben – auf der Seite, die eh wegfällt – einen kleinen Halbbogen rausschneiden: darunter kommt eine hellere Schaumstoff-Lage zum Vorschein, an der man erkennt, wo man geschnitten/gemessen hat. Ohne diesen Trick sieht man den Schnitt auf der dunklen Oberfläche sonst kaum.
+
+### Technik für gerade Schnitte
+
+- In der Regel: einmal am Lineal entlang schneiden, danach noch **2–3 Mal tiefer nachschneiden**. Das braucht etwas Übung, bis die Kante sauber wird.
+- Das Cuttermesser **nicht zu weit ausfahren** – sonst wird die Schnittkante schräg/schief.
+- Beim erneuten Durchfahren eines schon bestehenden Schnitts das Messer entsprechend hineindrücken, um an der Schnittkante im Material zu bleiben – aber nicht zu stark.
+- Für schräge Schnitte: erst die geraden Schnitte üben, danach fällt der schräge Schnitt leichter.
+
+### Vertiefungen im ShadowFoam
+
+- Von der Seite sind die einzelnen Lagen des ShadowFoam sichtbar – anhand dieser Lagen entscheidet man, bis zu welcher Tiefe geschnitten werden soll.
+- Auf beiden Seiten entsprechend tief einschneiden.
+- Das Stück danach vorsichtig heraustrennen: **nicht nach oben wegziehen**, sondern **parallel zur ShadowFoam-Oberfläche** abziehen und dabei direkt an der Reißkante mit den Fingern gegenhalten – so bleibt die Oberfläche halbwegs sauber.
+
