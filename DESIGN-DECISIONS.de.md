@@ -1,14 +1,57 @@
 # Design Decisions & Notes
 
-**02.06.26**
+**25.09.26**
 
-**Laser-cutting Shadowfoam (3 Layers, 30mm) with xTool:**
+## Werkzeug-Austausch bei m04b: iFixit-Schraubendreher statt Phasenprüfer
 
-- Strength: 5, Speed: 15 → for “engraving”,  cutting only black top layer (and a little underneath) (maybe a bit more speed even)
-- Strength: 20, Speed 15 → for cutting one of the colored layer
-- Strength: 15, Speed: 5 → for cutting almost to the bottom (two colored layers)
+**Entscheidung:** In letzter Minute wurde beim Modul `repair-m04b` der Phasenprüfer durch den iFixit-Schraubendreher (4mm Bit-Halter) ersetzt.
 
-- [ ] next test cutting raster 5×5:    Speed 5…25,   Strength 5…25
+- Da die Module zu diesem Zeitpunkt schon verklebt waren, wurde die Aussparung nachträglich mit einem Dremel etwas ausgefräst, damit der iFixit-Schraubendreher hineinpasst.
+- Dadurch gibt es für diese Aussparung **keine Laser-Cutting-Datei** – sie wurde händisch angepasst.
+
+---
+
+**17.09.26**
+
+## Papierstärke für den Druck auf die Lochrasterplatte
+
+**Entscheidung:** Dickeres Papier mit **160 g/m²** wird verwendet.
+
+- Scheint robuster zu sein.
+- Lässt sich gut kleben.
+
+---
+
+**10.09.26**
+
+## Anschlag beim Kleben des Papiers auf die Lochrasterplatte
+
+**Entscheidung:** Der Anschlag wird **oben rechts** gemacht.
+
+- Das Papier wird **rechts** bündig zur rechten Kante der Lochrasterplatte platziert.
+- Das Papier wird **oben** bündig zur oberen Kante der Lochrasterplatte platziert.
+
+---
+
+**08.09.26**
+
+## Bedrucktes Papier auf Lochrasterplatte kleben
+
+**Learning:** Nach dem Aufkleben von bedrucktem Papier (mit den Werkzeugen drauf) auf die Lochrasterplatte muss der Kleber erst **trocknen**, bevor die überstehenden Ränder mit dem Cutter abgeschnitten werden. Schneidet man zu früh (Kleber noch feucht), reißt das Papier an den Rändern ein.
+
+- [x] Nächster Test: **dickeres Papier** ausprobieren. → siehe Entscheidung vom 01.10.26 (160 g/m²).
+
+## Gummis auf den Lochrasterplatten
+
+**Entscheidung:** Rundgummi mit **Durchmesser > 2 mm** ist zu empfehlen.
+
+- Bei Flachgummis schwankt die Qualität sehr stark.
+
+## Transparenz der Drucklayer auf der Lochrasterplatte
+
+**Entscheidung:** Die Drucklayer werden mit **70 % Deckkraft** gedruckt, damit die Items gut erkennbar sind, wenn sie fixiert werden.
+
+- In Inkscape umgesetzt, indem eine **weiße Ebene** darübergelegt wird, die nur **30 % Deckkraft** hat.
 
 ---
 
@@ -58,44 +101,11 @@ Lösung dafür, wie die Module versandsicher in die Kiste gepackt werden.
 
 ---
 
-**08.09.26**
+**02.06.26**
 
-## Bedrucktes Papier auf Lochrasterplatte kleben
+**Lasern von Shadowfoam (3 Schichten, 30 mm) mit dem [xTool](https://www.xtool.com) (Laser-Cutter):**
 
-**Learning:** Nach dem Aufkleben von bedrucktem Papier (mit den Werkzeugen drauf) auf die Lochrasterplatte muss der Kleber erst **trocknen**, bevor die überstehenden Ränder mit dem Cutter abgeschnitten werden. Schneidet man zu früh (Kleber noch feucht), reißt das Papier an den Rändern ein.
+- Strength: 5, Speed: 15 → zum „Gravieren", schneidet nur die schwarze oberste Schicht (und ein wenig darunter) (eventuell sogar noch etwas mehr Speed)
+- Strength: 20, Speed: 15 → zum Schneiden einer der farbigen Schichten
+- Strength: 15, Speed: 5 → zum fast vollständigen Durchschneiden bis zum Boden (zwei farbige Schichten)
 
-- [x] Nächster Test: **dickeres Papier** ausprobieren. → siehe Entscheidung vom 01.10.26 (160 g/m²).
-
-## Gummis auf den Lochrasterplatten
-
-**Entscheidung:** Rundgummi mit **Durchmesser > 2 mm** ist zu empfehlen.
-
-- Bei Flachgummis schwankt die Qualität sehr stark.
-
-## Transparenz der Drucklayer auf der Lochrasterplatte
-
-**Entscheidung:** Die Drucklayer werden mit **70 % Deckkraft** gedruckt, damit die Items gut erkennbar sind, wenn sie fixiert werden.
-
-- In Inkscape umgesetzt, indem eine **weiße Ebene** darübergelegt wird, die nur **30 % Deckkraft** hat.
-
----
-
-**10.09.26**
-
-## Anschlag beim Kleben des Papiers auf die Lochrasterplatte
-
-**Entscheidung:** Der Anschlag wird **oben rechts** gemacht.
-
-- Das Papier wird **rechts** bündig zur rechten Kante der Lochrasterplatte platziert.
-- Das Papier wird **oben** bündig zur oberen Kante der Lochrasterplatte platziert.
-
----
-
-**17.09.26**
-
-## Papierstärke für den Druck auf die Lochrasterplatte
-
-**Entscheidung:** Dickeres Papier mit **160 g/m²** wird verwendet.
-
-- Scheint robuster zu sein.
-- Lässt sich gut kleben.
