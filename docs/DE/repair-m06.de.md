@@ -17,7 +17,7 @@
 1. Reifenheber
 1. Umsteckschraubendreher
 1. Kettenmesslehre
-1. Kettenöffner
+1. Kettennieter
 
 ---
 
