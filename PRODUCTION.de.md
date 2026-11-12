@@ -1,6 +1,8 @@
 
 # Produktion der Module aus gelaserter Wellpappe
 
+> **Bezieht sich primär auf die Shadowboard version, die Lochraster-Spanngummi-Version weiter unten.**
+
 ## Konturen erstellen
 
 Verwendetes Werkzeug: **Inkscape**.
@@ -63,11 +65,12 @@ Verwendeter Laser-Cutter: **xTool**, 40 W CO2-Laser. Die folgenden Einstellungen
 
 ## Erstellen der Hintergrundbilder
 
-- Von den gelaserten Wellpappe-Teilen einige nehmen und nur die benötigten Konturen herausklicken – so lässt sich ein Modul **ohne zu kleben** probeweise zusammenstecken.
+- Von den gelaserten Wellpappe-Teilen einige nehmen und nur die benötigten Konturen herausklicken – so lässt sich ein Modul **ohne zu kleben** probeweise zusammenstecken/positionieren.
 - Die Werkzeuge in das so zusammengesteckte Modul einlegen.
-- Das Ganze fotografieren.
+- Das Ganze vor kontrastreichem Hintergrund fotografieren.
 - Helligkeit/Kontrast nachbearbeiten (z. B. mit GIMP oder einem anderen Programm), damit die Werkzeuge gut erkennbar sind.
-- Auf A4 zuschneiden/anpassen (äquivalent zur Nachbearbeitung in GIMP weiter unten im Abschnitt zu den Lochraster-Modulen).
+- Auf A4 zuschneiden/anpassen (äquivalent zur Nachbearbeitung in GIMP weiter unten im Abschnitt zu den Lochraster-Modulen: Linsenkrümmung ausgleichen, ggf leicht zurechtschieben etc).
+- Borderless drucken (dickes Papier)
 
 
 ## Kleben
@@ -80,6 +83,8 @@ Benötigte Layer (Aufbau von unten nach oben):
 
 Fotos der Werkzeuge: pro Lage klebt man nur den Bildausschnitt der Werkzeuge, deren Aussparung genau auf dieser Tiefe endet. 
 
+![](/assets/shadowboard-cardboard-layers.jpg)
+
 ### Material
 
 - **Klebtool** (3D-gedruckt; Modell im Repo: [prod/Gluing-Tool.stl](prod/Gluing-Tool/Gluing-Tool.stl), Quelle: [src/CAD/Gluing-Tool.FCStd](src/CAD/Gluing-Tool/Gluing-Tool.FCStd))
@@ -91,18 +96,27 @@ Fotos der Werkzeuge: pro Lage klebt man nur den Bildausschnitt der Werkzeuge, de
 
 ### Vorgehen
 
+![](assets/layer-gluing-production-light-table.jpg)
+
+1. Alle gelaserten Teile und Werkzeuge/Kleber bereitlegen.
 1. Wir starten mit der dünnen Hintergrundpappe (ohne Kontur), sie soll die hinterste Lage des Moduls werden. Also legen wir sie zunächst als Basis in das Kleb-Tool.
+![](assets/light-table-cardboard-layers.jpg)
+
 2. Pro Wellpappe-Lage, von unten nach oben:
    1. Die für diese Tiefe benötigten Pappkonturen aus der gelaserten Wellpappe herausbrechen (nur dort, wo ein Werkzeug genau auf dieser Tiefe eine Aussparung braucht).
    2. Mit dem Cutter die passenden Bildausschnitte aus dem Papier mit den Werkzeughintergrundbildern ausschneiden, mit reichlich Rand (so wie es möglich ist) drumherum – nur die Bilder der Werkzeuge, deren Aussparung genau auf dieser Lage endet. 
    3. Mit dem Prittstift Kleber auf die unbedruckte Rückseite des Papierausschnitts auftragen und von hinten auf die passende Stelle der Pappe-Lage kleben (bedruckte Seite zeigt nach oben). Ein Leuchttisch hilft, die Position genau zu treffen.
+   ![](assets/gluing-background-images-layers-production.jpg)
    4. Die gesamte Rückseite dieser Pappe-Lage mit Ponal Express (Malerrolle + Farbwanne) benetzen und mit dem Klebtool auf den bisherigen Stapel aufkleben. Bei dem ersten (untersten) Papplayer wird dieser auf die dünne Hintergrundpappe ohne Kontur aufgeklebt. 
+   ![](assets/gluing-cardboard-layers-production.jpg)
 3. Schritt 2 für alle weiteren Wellpappe-Lagen wiederholen, sodass sich das Modul Lage für Lage aufbaut.
 4. Zum Schluss die Moosgummi-Lage mit Kontur oben aufkleben.
 
 ---
 
 # Produktion der Module auf Lochraster
+
+![](assets/grid-base-plate-modified-module-layers.jpg)
 
 Prozess für die Erstellung der Hintergrundbilder, das sandwichmäßige Zusammenkleben der Module und die Herstellung/den Einsatz der Spanngummis.
 
@@ -112,7 +126,7 @@ Prozess für die Erstellung der Hintergrundbilder, das sandwichmäßige Zusammen
 
 - Vor dem Fotografieren wird das auf **5 %** ausgedruckte Lochraster-Papier untergelegt.
 - Die Items werden darauf so angeordnet, wie sie später auf der Lochrasterplatte tatsächlich liegen würden (gleiche Anordnung/Raster).
-- **Weißabgleich:** auf den **schwarzen Hintergrund**, damit eine relativ helle Belichtung entsteht.
+- **Weißabgleich:** auf den **schwarzen Hintergrund**, damit eine relativ helle Belichtung entsteht. (Weißabgleich vorher mit weißem Referenzbild einstellen)
 
 ### 2. Nachbearbeitung in GIMP
 
@@ -138,6 +152,8 @@ Prozess für die Erstellung der Hintergrundbilder, das sandwichmäßige Zusammen
 
 ## Spanngummis (Gummibänder mit T-Splinten)
 
+
+
 - Jedes Werkzeug/Item wird mittels **Spanngummis** – Gummibändern mit **T-Splinten an beiden Enden** – fixiert und bekommt so eine feste Position.
 - Pro Item kommen meist **zwei Spanngummis** zum Einsatz.
 - Werden die Spanngummis selbst hergestellt, müssen sie entsprechend abgelängt werden. Folgende Längen kommen zum Einsatz:
@@ -151,6 +167,7 @@ Prozess für die Erstellung der Hintergrundbilder, das sandwichmäßige Zusammen
 
 1. Ein Lochrastermodul nehmen und ein passendes Bild (Hintergrundbild, siehe oben) auf die Lochrasterplatte kleben – **trocknen lassen**.
 2. Die Löcher an den richtigen Positionen stanzen, z. B. über einem Lichttisch.
+![](assets/light-table-grid-holes-production.jpg)
 3. Die überstehenden Papierränder abschneiden mit einem scharfen Cuttermesser.
 4. Die Gummibänder (Spanngummis) entsprechend platzieren.
 5. Die einzelnen Layer (Sandwich) verkleben (siehe unten).
@@ -170,15 +187,20 @@ Druck- und Laser-Cutting-Dateien: [prod/modules](prod/modules)
 
 ### Vorgehen
 
+![](assets/production-grid-base-plate-module.jpg)
+
 1. Die mit dem Hintergrundbild beklebte Lochraster-Platine (MDF) wird mit den Gummibändern bestückt. **Erst danach geht es weiter.**
 2. Der nächste Schritt wird am besten mit dem **Klebtool** durchgeführt (3D-Druckdatei liegt im Repo, es geht aber auch ohne).
-3. Der Papp-Layer wird auf den Tisch gelegt und die Lochraster-Platine oben darauf platziert. Durch festes Andrücken drücken sich die T-Splinte etwas in die Pappschicht ein und markieren so die Positionen.
+3. Der Papp-Layer wird auf den Tisch gelegt und die Lochraster-Platine oben darauf platziert. Durch festes Andrücken drücken sich die T-Splinte etwas in die Pappschicht ein und markieren so die Positionen. (ggf. kann man die T-Splinte mit einem Filzstift bemalen, damit die Position auf der Wellpappe besser sichtbar wird/abfärbt beim andrücken.)
 4. Die Lochraster-Platine wieder zur Seite nehmen und an den markierten Stellen die Pappschicht durchstechen, z. B. mit der Rückseite eines Stifts. Dadurch können die T-Splinte später dort versenkt werden und sich alles gut zusammenkleben lässt.
+![](assets/production-precutting-grid-t-splints.jpg)
 5. Moosgummi auf die Pappe kleben.
 6. Die Lochraster-Platine oben auf Moosgummi + Pappe legen und kräftig andrücken.
 7. Alles gut beschweren und eine Weile trocknen lassen.
 
 ### Klebehinweise
+
+![](assets/gluing-prep.jpg)
 
 - Verwendet wird **Ponal Express Leim**.
 - Bewährt hat sich der Auftrag mit einer **kleinen Malerrolle**.
@@ -188,7 +210,9 @@ Druck- und Laser-Cutting-Dateien: [prod/modules](prod/modules)
 
 # Produktion der Versandsicherung
 
-Die Versandsicherung besteht aus zwei Schaumstoffteilen (Boden + Oberteil), die die Module in der Versandkiste gegen Verrutschen und Beschädigung sichern. Hintergrund zu den Designentscheidungen: siehe [DESIGN-DECISIONS.de.md](DESIGN-DECISIONS.de.md) .
+Die Versandsicherung besteht aus zwei Schaumstoffteilen (Boden + Oberteil), die die Module in der Versandkiste gegen Verrutschen und Beschädigung sichern. Hintergrund zu den Designentscheidungen: siehe [DESIGN-DECISIONS.de.md](DESIGN-DECISIONS.de.md).
+
+![](assets/packaging/shipping-protection-set.jpg)
 
 ## Teile
 
@@ -227,3 +251,4 @@ Die Versandsicherung besteht aus zwei Schaumstoffteilen (Boden + Oberteil), die 
 - Auf beiden Seiten entsprechend tief einschneiden.
 - Das Stück danach vorsichtig heraustrennen: **nicht nach oben wegziehen**, sondern **parallel zur ShadowFoam-Oberfläche** abziehen und dabei direkt an der Reißkante mit den Fingern gegenhalten – so bleibt die Oberfläche halbwegs sauber.
 
+![](assets/case-class-set-packed.jpg)
