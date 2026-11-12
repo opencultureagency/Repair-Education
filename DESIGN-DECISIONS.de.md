@@ -1,6 +1,8 @@
 # Design Decisions & Notes
 
-**25.09.26**
+[[**DESIGN-DECISIONS in English**](/DESIGN-DECISIONS.md)]
+
+**25.10.26**
 
 ## Werkzeug-Austausch bei m04b: iFixit-Schraubendreher statt Phasenprüfer
 

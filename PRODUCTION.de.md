@@ -1,6 +1,8 @@
 
 # Produktion der Module aus gelaserter Wellpappe
 
+[[**PRODUCTION in English**](/PRODUCTION.md)]
+
 > **Bezieht sich primär auf die Shadowboard version, die Lochraster-Spanngummi-Version weiter unten.**
 
 ## Konturen erstellen

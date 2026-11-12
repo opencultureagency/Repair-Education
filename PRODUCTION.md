@@ -1,6 +1,8 @@
 
 # Production of the Laser-Cut Corrugated-Cardboard Modules
 
+[[**PRODUCTION auf Deutsch**](/PRODUCTION.de.md)]
+
 > **Primarily refers to the shadowboard version; the pegboard/elastic-cord version follows further below.**
 
 ## Creating the Contours

@@ -1,6 +1,8 @@
 # Design Decisions & Notes
 
-**25.09.26**
+[[**DESIGN-DECISIONS auf Deutsch**](/DESIGN-DECISIONS.de.md)]
+
+**25.10.26**
 
 ## Tool Swap for m04b: iFixit Screwdriver Instead of the Voltage Tester
 
