@@ -38,8 +38,7 @@ See the individual module documentation for the specific applications each one c
 - [repair-m11](docs/repair-m11.md): Gluing
 
 
-![](assets/Pegboard-Module-Materials.jpg)
-
+![Module-Prototyping](assets/module-prototyping-set.JPG)
 
 ## Production
 

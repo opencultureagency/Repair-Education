@@ -37,7 +37,7 @@ Die jeweiligen Anwendungsbereiche der einzelnen Module sind in der jeweiligen Mo
 - [repair-m10](docs/repair-m10.md): Textilien
 - [repair-m11](docs/repair-m11.md): Kleben
 
-![](assets/Pegboard-Module-Materials.jpg)
+![module prototyping](assets/module-prototyping-set.JPG)
 
 ## Produktion
 
